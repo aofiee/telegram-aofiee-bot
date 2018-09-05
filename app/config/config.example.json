@@ -1,0 +1,8 @@
+{
+    "Port": ":1234",
+    "DATABASE_ADDRESS": "",
+    "DATABASE_NAME": "",
+    "DATABASE_USER": "",
+    "DATABASE_PASSWORD": "",
+    "API_BLOCKCYPHER" : ""
+}
